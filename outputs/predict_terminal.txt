@@ -1,0 +1,14 @@
+Loading models:/1MS25CI040-semantic-search-model@champion
+  -> version 2 | hf_model_id = BAAI/bge-small-en-v1.5 | run = B_semantic-search_bge-small
+sample_id                                              query   doc_id                                                   title  score  is_expected
+  new_001 Killing mosquito larvae in standing water is an ef  1349033 Advantages of larval control for African malaria vector 0.7532            1
+  new_002 A six-month drug regimen taken three times a week    341324 Efficacy of the 6-month thrice-weekly regimen in the tr 0.8417            1
+  new_003 Skin colour, latitude and season change how much v 23267371                      Vitamin D: The "sunshine" vitamin. 0.8185            0
+  new_004 A mutation in a body-clock gene makes people in so  4587978 Mutation of the Human Circadian Clock Gene CRY1 in Fami 0.8005            1
+  new_005 Medicines such as varenicline and nicotine patches 34369306 Long-term efficacy of nicotine replacement therapy for  0.7768            0
+  new_006 Women who are overweight before pregnancy are more  8842332 Contemporary type 1 diabetes pregnancy outcomes: impact 0.7899            0
+  new_007 A nationwide study of one million deaths in India  17415081 Prospective Study of One Million Deaths in India: Ratio 0.7422            1
+  new_008 Antibiotics that kill bacteria share one common pa  1103795 A Common Mechanism of Cellular Death Induced by Bacteri 0.8585            1
+
+Expected abstract at rank 1: 5 / 8   |   in top 3: 8 / 8
+Saved outputs/new_data_predictions.csv

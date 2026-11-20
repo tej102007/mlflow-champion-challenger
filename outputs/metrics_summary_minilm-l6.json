@@ -5,9 +5,9 @@
   "recall_at_10": 72.9,
   "mrr_at_10": 58.5718,
   "ndcg_at_10": 61.5705,
-  "avg_latency_ms": 44.3686,
-  "total_inference_s": 4.4369,
-  "corpus_encode_s": 137.807,
+  "avg_latency_ms": 43.5962,
+  "total_inference_s": 4.3596,
+  "corpus_encode_s": 137.6343,
   "recall_at_k_curve": [
     50.2,
     58.7,

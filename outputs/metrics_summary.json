@@ -1,11 +1,11 @@
 {
   "decision": {
     "winner": "B",
-    "reason": "delta nDCG@10 +7.16 >= 2.0 margin and latency 1.823x within guardrail",
+    "reason": "delta nDCG@10 +7.16 >= 2.0 margin and latency 1.822x within guardrail",
     "primary_metric": "ndcg_at_10",
     "margin": 2.0,
     "delta_ndcg_at_10": 7.1622,
-    "latency_ratio": 1.823
+    "latency_ratio": 1.822
   },
   "A": {
     "recall_at_1": 50.2,
@@ -13,13 +13,13 @@
     "recall_at_10": 72.9,
     "mrr_at_10": 58.5718,
     "ndcg_at_10": 61.5705,
-    "avg_latency_ms": 44.3686,
-    "total_inference_s": 4.4369,
-    "corpus_encode_s": 137.807,
+    "avg_latency_ms": 43.5962,
+    "total_inference_s": 4.3596,
+    "corpus_encode_s": 137.6343,
     "hf_model_id": "sentence-transformers/all-MiniLM-L6-v2",
     "run_name": "A_semantic-search_minilm-l6",
-    "run_id": "4384bb809ce54de79f9a45486e4074ed",
-    "model_uri": "models:/m-77039fcc41a845f4b91770a5bf815329"
+    "run_id": "8514b898c7d5447b887f2ebeba719b8a",
+    "model_uri": "models:/m-f059d0f497e844fc9fcd3f0efb4a7e53"
   },
   "B": {
     "recall_at_1": 53.7,
@@ -27,12 +27,12 @@
     "recall_at_10": 82.3,
     "mrr_at_10": 64.7722,
     "ndcg_at_10": 68.7327,
-    "avg_latency_ms": 80.9019,
-    "total_inference_s": 8.0902,
-    "corpus_encode_s": 288.3431,
+    "avg_latency_ms": 79.4276,
+    "total_inference_s": 7.9428,
+    "corpus_encode_s": 278.3996,
     "hf_model_id": "BAAI/bge-small-en-v1.5",
     "run_name": "B_semantic-search_bge-small",
-    "run_id": "a5cc73bfb39245dfb22f7fd69ae55a22",
-    "model_uri": "models:/m-2d02c50135b64587892502b24716f642"
+    "run_id": "b35be64322f04b32bac6358a5ca7efb8",
+    "model_uri": "models:/m-ce25d4f3ab374753b69667ad45b6887e"
   }
 }

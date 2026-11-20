@@ -192,7 +192,7 @@ with mlflow.start_run(run_name="compare_semantic_search") as parent:
     axs[0].set_ylabel("% (higher is better)"); axs[0].set_ylim(0, 105); axs[0].legend(loc="upper left")
     axs[0].set_title("Retrieval quality on 100 SciFact claims")
     bars = axs[1].bar(["A", "B"], [a["avg_latency_ms"], b["avg_latency_ms"]], color=["#4C72B0", "#DD8452"])
-    axs[1].bar_label(bars, fmt="%.1f", fontsize=8); axs[1].set_title("Avg query latency (ms, lower is better)")
+    axs[1].bar_label(bars, fmt="%.1f", fontsize=8); axs[1].set_title("Avg latency, ms (lower = better)", fontsize=10)
     fig.tight_layout(); fig.savefig("outputs/metric_comparison.png", dpi=120)
     mlflow.log_figure(fig, "metric_comparison.png"); plt.close(fig)
 

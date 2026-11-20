@@ -1,0 +1,9 @@
+Comparison run : 4bad47ac62214114a3e4fb3564dc582c
+Winner tag     : B_bge-small
+Reason         : delta nDCG@10 +7.16 >= 2.0 margin and latency 1.822x within guardrail
+
+Registered A_semantic-search_minilm-l6      -> 1MS25CI040-semantic-search-model v1
+Registered B_semantic-search_bge-small      -> 1MS25CI040-semantic-search-model v2
+
+@champion   -> v2  BAAI/bge-small-en-v1.5
+@challenger -> v1  sentence-transformers/all-MiniLM-L6-v2

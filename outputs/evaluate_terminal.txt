@@ -1,0 +1,33 @@
+Evaluation set: 100 SciFact test claims, corpus of 5183 abstracts -> data/eval_inputs.csv
+
+=== A_semantic-search_minilm-l6  (sentence-transformers/all-MiniLM-L6-v2) ===
+Corpus encoded: (5183, 384) in 137.6s
+{
+  "recall_at_1": 50.2,
+  "recall_at_5": 67.7,
+  "recall_at_10": 72.9,
+  "mrr_at_10": 58.5718,
+  "ndcg_at_10": 61.5705,
+  "avg_latency_ms": 43.5962,
+  "total_inference_s": 4.3596,
+  "corpus_encode_s": 137.6343
+}
+
+=== B_semantic-search_bge-small  (BAAI/bge-small-en-v1.5) ===
+Corpus encoded: (5183, 384) in 278.4s
+{
+  "recall_at_1": 53.7,
+  "recall_at_5": 78.1,
+  "recall_at_10": 82.3,
+  "mrr_at_10": 64.7722,
+  "ndcg_at_10": 68.7327,
+  "avg_latency_ms": 79.4276,
+  "total_inference_s": 7.9428,
+  "corpus_encode_s": 278.3996
+}
+
+DECISION: winner = B (BAAI/bge-small-en-v1.5)
+Reason: delta nDCG@10 +7.16 >= 2.0 margin and latency 1.822x within guardrail
+Top-1 disagreements: 40 / 100  (A correct on 7, B correct on 11)
+
+Parent run: 4bad47ac62214114a3e4fb3564dc582c  ->  sqlite:////workspace/work/mlstore/mlflow.db

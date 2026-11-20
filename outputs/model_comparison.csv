@@ -4,6 +4,6 @@ recall_at_5,67.7,78.1,10.4,True
 recall_at_10,72.9,82.3,9.4,True
 mrr_at_10,58.5718,64.7722,6.2004,True
 ndcg_at_10,61.5705,68.7327,7.1622,True
-avg_latency_ms,44.3686,80.9019,36.5333,False
-total_inference_s,4.4369,8.0902,3.6533,False
-corpus_encode_s,137.807,288.3431,150.5361,False
+avg_latency_ms,43.5962,79.4276,35.8314,False
+total_inference_s,4.3596,7.9428,3.5832,False
+corpus_encode_s,137.6343,278.3996,140.7653,False
