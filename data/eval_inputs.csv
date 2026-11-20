@@ -1,0 +1,101 @@
+sample_id,query_id,query,relevant_doc_ids
+q_001,1,0-dimensional biomaterials show inductive properties.,31715818
+q_002,13,5% of perinatal mortality is due to low birth weight.,1606628
+q_003,42,A high microerythrocyte count raises vulnerability to severe anemia in homozygous alpha (+)- thalassemia trait subjects.,18174210
+q_004,48,"A total of 1,000 people in the UK are asymptomatic carriers of vCJD infection.",13734012
+q_005,51,ALDH1 expression is associated with better breast cancer outcomes.,45638119
+q_006,54,AMP-activated protein kinase (AMPK) activation increases inflammation-related fibrosis in the lungs.,49556906
+q_007,57,"APOE4 expression in iPSC-derived neurons increases AlphaBeta production and tau phosphorylation, delaying GABA neuron degeneration.",4709641
+q_008,75,"Active H. pylori urease has a polymeric structure that compromises two subunits, UreA and UreB.",4387784
+q_009,99,Alizarin forms hydrogen bonds with residues involved in PGAM1 substrate binding.,18810195
+q_010,124,Antiretroviral therapy reduces rates of tuberculosis across a broad range of CD4 strata.,4883040
+q_011,133,"Assembly of invadopodia is triggered by focal generation of phosphatidylinositol-3,4-biphosphate and the activation of the nonreceptor tyrosine kinase Src.",12640810;16280642;17934082;38485364;6969753
+q_012,143,Autologous transplantation of mesenchymal stem cells causes fewer opportunistic infections than induction therapy with anti-interleukin-2 receptor antibodies.,10582939
+q_013,148,Autophagy declines in aged organisms.,1084345
+q_014,171,Basophils counteract disease development in patients with systemic lupus erythematosus (SLE).,12670680
+q_015,180,Blocking the interaction between TDP-43 and respiratory complex I proteins ND3 and ND6 leads to increased TDP-43-induced neuronal loss.,16966326
+q_016,198,CCL19 is absent within dLNs.,2177022
+q_017,208,CHEK2 is not associated with breast cancer.,13519661
+q_018,212,CR is associated with higher methylation age.,22038539
+q_019,216,CX3CR1 on the Th2 cells impairs T cell survival,21366394
+q_020,219,CX3CR1 on the Th2 cells suppresses airway inflammation.,21366394
+q_021,236,Cell autonomous sex determination in somatic cells occurs in Passeriformes.,4388470
+q_022,237,Cells lacking clpC have a defect in sporulation efficiency in Bacillus subtilis.,4942718
+q_023,261,"Chronic aerobic exercise alters endothelial function, improving vasodilating mechanisms mediated by NO.",10697096;1122279
+q_024,274,Combination nicotine replacement therapies with varenicline or bupropion lead to significantly higher long-term abstinence rates at 52 weeks than varenicline monotherapy.,11614737
+q_025,294,Crossover hot spots are not found within gene promoters in Saccharomyces cerevisiae.,10874408
+q_026,303,DMRT1 is a sex-determining gene that is epigenetically regulated by the MHM region.,4388470
+q_027,354,Downregulation and mislocalization of Scribble prevents cell transformation and mammary tumorigenesis.,8774475
+q_028,411,Febrile seizures reduce the threshold for development of epilepsy.,14924526
+q_029,415,Female carriers of the Apolipoprotein E4 (APOE4) allele have increased risk for dementia.,6309659
+q_030,436,Free histones are degraded by a Rad53-dependent mechanism once DNA has been replicated.,14637235
+q_031,439,Fz/PCP-dependent Pk localizes to the anterior membrane of neuroectoderm cells during zebrafish neuralation,4423559
+q_032,502,"Healthcare delivery efficiency in crowded delivery centers is impaired by improving structural, logistical, and interpersonal elements.",13071728
+q_033,508,Hematopoietic Stem Cell purification reaches purity rate of up to 50%.,13980338
+q_034,513,High cardiopulmonary fitness causes increased mortality rate.,13230773
+q_035,532,Hyperfibrinogenemia decreases rates of femoropopliteal bypass thrombosis.,12991445
+q_036,533,Hyperfibrinogenemia increases rates of femoropopliteal bypass thrombosis.,12991445
+q_037,535,Hypertension is frequently observed in type 1 diabetes patients.,39368721
+q_038,549,IRG1 has antiviral effects against neurotropic viruses.,9433958
+q_039,552,IgA plasma cells that are specific for transglutaminase 2 accumulate in the duodenal mucosa on commencement of a gluten-free diet.,1471041
+q_040,577,"In mice, P. chabaudi parasites are able to proliferate faster early in infection when inoculated at lower numbers than when inoculated at high numbers.",5289038
+q_041,578,"In mouse models, the loss of CSF1R facilitates MOZ-TIF2-induced leuekmogenesis.",8764879
+q_042,587,"In transgenic mice harboring green florescent protein under the control of the Sox2 promoter, less than ten percent of the cells with green florescent colocalize with cell proliferation markers.",16999023
+q_043,593,Incidence of heart failure decreased by 10% in women since 1979.,19675911
+q_044,613,Increased microtubule acetylation repairs LRRK2 Roc-COR domain mutation induced locomotor deficits.,9638032
+q_045,628,Infection of human T-cell lymphotropic virus type 1 is most frequent in individuals of African origin.,24512064
+q_046,636,"Inositol lipid 3-phosphatase PTEN converts Ptdlns(3,4)P 2 into phosphatidylinositol 4-phosphate.",24294572
+q_047,644,Insulin increases risk of severe kidney failure.,13619127
+q_048,649,Integrating classroom-based collaborative learning with Web-based collaborative learning leads to subpar class performance,12789595
+q_049,660,Ivermectin is used to treat onchocerciasis.,1215116
+q_050,674,LDL cholesterol has no involvement in the development of cardiovascular disease.,2095573
+q_051,691,Leukemia associated Rho guanine nucleotide-exchange factor represses RhoA in response to SRC activation.,10991183
+q_052,716,Low expression of miR7a exerts a biological function in testis.,18421962
+q_053,723,Ly49Q directs the organization of neutrophil migration to inflammation sites by regulating membrane raft functions.,5531479
+q_054,727,Ly6C hi monocytes have a lower inflammatory capacity compared to their Ly6C lo counterparts.,7521113
+q_055,743,Macrolides protect against myocardial infarction.,32159283
+q_056,759,Mathematical models predict that using Artemisinin-based combination therapy over nongametocytocidal drugs have a dramatic impact in reducing malaria transmission.,1805641
+q_057,768,Mercaptopurine is anabolized into the inactive methylmercaptopurine by thiopurine methyltrasnferase (TPMT).,6421792
+q_058,775,Mice defective for deoxyribonucleic acid (DNA) polymerase I (polI) reveal increased sensitivity to ionizing radiation (IR).,32275758
+q_059,785,Microarray results from culture-amplified mixtures of serotypes correlate poorly with microarray results from uncultured mixtures.,12471115
+q_060,800,Modifying the epigenome in the brain affects the normal human aging process by affecting certain genes related to neurogenesis.,22543403
+q_061,805,Monoclonal antibody targeting of N-cadherin inhibits metastasis.,22180793
+q_062,808,Most termination events in Okazaki fragments are sequence specific.,36606083
+q_063,814,"Mutations in G-Beta protein GNB2 are present in many cancers, resulting in loss of interaction with G-alpha subunits and concomitant activation of AKT pathway.",33387953
+q_064,821,N-terminal cleavage reduces success identifying transcription start sites.,8646760
+q_065,834,NOX2-independent pathways can generate peroxynitrite by reacting with nitrogen intermediates.,5483793
+q_066,839,Nanoparticles can be targeted against specific cell types by incorporating aptamers into lipid nanoparticles.,1469751
+q_067,870,Obesity decreases life quality.,195689316
+q_068,879,Occupancy of ribosomes by IncRNAs do not make functional peptides.,8426046
+q_069,907,PGE 2 promotes intestinal tumor growth by altering the expression of tumor suppressing and DNA repair genes.,6923961
+q_070,913,PPAR-RXRs are inhibited by PPAR ligands.,3203590
+q_071,936,Peroxynitrite is required for nitration of TCR/CD8.,5483793
+q_072,967,Pretreatment with the Arp2/3 inhibitor CK-666 affects lamelliopodia formation.,2119889;8997410
+q_073,985,Pseudogene PTENP1 regulates the expression of PTEN by functioning as an miRNA decoy.,6828370
+q_074,1062,S-nitrosylated GAPDH physiologically transnitrosylates histone deacetylases.,20381484
+q_075,1110,Suboptimal nutrition is not predictive of chronic disease,13770184
+q_076,1121,Synaptic activity enhances local release of brain derived neurotrophic factor from postsynaptic dendrites.,4456756
+q_077,1130,T regulatory cells (tTregs) lacking αvβ8 are more adept at suppressing pathogenic T-cell responses during active inflammation.,17997584
+q_078,1180,The PRR MDA5 is a sensor of RNA virus infection.,31272411
+q_079,1185,The US health care system can save up to $750 million if 7% of patients waiting for kidney transplants participate in the optimized national kidney paired donation program.,16737210
+q_080,1200,The binding orientation of the ML-SA1 activator at hTRPML2 is different from the binding orientation of the ML-SA1 activator at hTRPML1.,3441524
+q_081,1204,The combination of H3K4me3 and H3K79me2 is found in quiescent hair follicle stem cells.,31141365
+q_082,1207,The composition of myosin-II isoform switches from the polarizable B isoform to the more homogenous A isoform during hematopoietic differentiation.,18909530
+q_083,1216,The extracellular domain of TMEM27 is cleaved in human beta cells.,24142891
+q_084,1232,The minor G allele of FOXO3 is related to more severe symptoms of Crohn's Disease.,13905670
+q_085,1245,The one-child policy has been successful in lowering population growth.,7662395
+q_086,1262,The repair of Cas9-induced double strand breaks in human DNA is error-prone.,44172171
+q_087,1266,"The risk of breast cancer among parous women increases with placental weight of pregnancies, and this association is strongest for premenopausal breast cancer.",37480103
+q_088,1270,The risk of male prisoners harming themselves is ten times that of female prisoners.,13900610
+q_089,1271,The severity of cardiac involvement in amyloidosis can be described by the degree of transmurality of late gadolinium enhancement in MRI.,13768432
+q_090,1273,The sliding activity of kinesin-8 protein Kip3 promotes bipolar spindle assembly.,11041152
+q_091,1278,The treatment of cancer patients with co-IR blockade does not cause any adverse autoimmune events.,11335781
+q_092,1279,The treatment of cancer patients with co-IR blockade precipitates adverse autoimmune events.,11335781
+q_093,1320,Transplanted human glial progenitor cells are incapable of forming a neural network with host animals' neurons.,16284655
+q_094,1336,UCB T cells reduce TCR diversity after transplantation.,27910499
+q_095,1337,Ubiquitin ligase UBC13 generates a K63-linked polyubiquitin moiety at PCNA K164.,20231138
+q_096,1352,Upregulation of mosGCTL-1 is induced upon infection with West Nile virus.,12885341
+q_097,1363,Venules have a thinner or absent smooth layer compared to arterioles.,8290953
+q_098,1368,Vitamin D deficiency effects the term of delivery.,2425364
+q_099,1370,Vitamin D deficiency is unrelated to birth weight.,2425364
+q_100,1385,cSMAC formation enhances weak ligand signalling.,306006

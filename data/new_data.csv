@@ -1,0 +1,9 @@
+sample_id,query,expected_doc_id
+new_001,Killing mosquito larvae in standing water is an effective way to control malaria in Africa.,1349033
+new_002,A six-month drug regimen taken three times a week cures newly diagnosed lung TB.,341324
+new_003,"Skin colour, latitude and season change how much vitamin D the skin makes from sunlight.",275294
+new_004,A mutation in a body-clock gene makes people in some families fall asleep and wake up very late.,4587978
+new_005,Medicines such as varenicline and nicotine patches help smokers quit better than placebo.,5114940
+new_006,Women who are overweight before pregnancy are more likely to develop diabetes during pregnancy.,439670
+new_007,A nationwide study of one million deaths in India was set up to find out what people die of.,17415081
+new_008,Antibiotics that kill bacteria share one common pathway that produces harmful hydroxyl radicals.,1103795
