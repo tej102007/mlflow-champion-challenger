@@ -142,7 +142,7 @@ with mlflow.start_run(run_name="compare_semantic_search") as parent:
             info = mlflow.pyfunc.log_model(
                 name="model", python_model=SemanticSearchModel(), code_paths=["st_wrapper.py"],
                 artifacts={"st_model_dir": model_dir, "corpus": "hf_models/corpus.parquet", "corpus_embeddings": emb_path},
-                model_config={"top_k": 3, "max_length": MAX_LENGTH, "query_prefix": m["query_prefix"]},
+                model_config={"output_top_k": 3, "max_length": MAX_LENGTH, "query_instruction": m["query_prefix"]},
                 input_example=pd.DataFrame({"query": ["Vitamin D deficiency is linked to depression."]}),
                 pip_requirements=["mlflow", "sentence-transformers", "transformers", "torch", "pandas", "numpy", "pyarrow"])
             m["run_id"], m["model_uri"] = child.info.run_id, info.model_uri

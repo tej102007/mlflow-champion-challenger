@@ -1,0 +1,11 @@
+{
+  "A": {
+    "run_id": "4384bb809ce54de79f9a45486e4074ed",
+    "hf_model_id": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  "B": {
+    "run_id": "a5cc73bfb39245dfb22f7fd69ae55a22",
+    "hf_model_id": "BAAI/bge-small-en-v1.5"
+  },
+  "winner": "B"
+}

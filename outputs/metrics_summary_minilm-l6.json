@@ -1,0 +1,23 @@
+{
+  "model": "sentence-transformers/all-MiniLM-L6-v2",
+  "recall_at_1": 50.2,
+  "recall_at_5": 67.7,
+  "recall_at_10": 72.9,
+  "mrr_at_10": 58.5718,
+  "ndcg_at_10": 61.5705,
+  "avg_latency_ms": 44.3686,
+  "total_inference_s": 4.4369,
+  "corpus_encode_s": 137.807,
+  "recall_at_k_curve": [
+    50.2,
+    58.7,
+    62.7,
+    63.7,
+    67.7,
+    68.2,
+    70.9,
+    71.9,
+    72.9,
+    72.9
+  ]
+}

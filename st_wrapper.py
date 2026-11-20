@@ -32,8 +32,8 @@ class SemanticSearchModel(mlflow.pyfunc.PythonModel):
     def load_context(self, context):
         from sentence_transformers import SentenceTransformer
         cfg = context.model_config or {}
-        self.top_k = int(cfg.get("top_k", 3))
-        self.query_prefix = cfg.get("query_prefix", "")
+        self.top_k = int(cfg.get("output_top_k", 3))
+        self.query_prefix = cfg.get("query_instruction", "")
         self.model = SentenceTransformer(context.artifacts["st_model_dir"], device="cpu")
         self.model.max_seq_length = int(cfg.get("max_length", 256))
         self.corpus = pd.read_parquet(context.artifacts["corpus"])
